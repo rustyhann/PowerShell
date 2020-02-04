@@ -2,7 +2,7 @@ title: Rusty Hann PowerShell
 description: > # this means to ignore newlines until "baseurl:"
   PowerShell Examples by Rusty Hann.
 permalink: ':title/'
-baseurl: "/PowerShell" # the project name for GitHub Pages project sites
+baseurl: "/PowerShell.Template" # the project name for GitHub Pages project sites
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: # if your site has a twitter account, enter it here
 
